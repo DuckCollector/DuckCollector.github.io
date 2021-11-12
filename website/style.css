@@ -1,0 +1,22 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    background:#efefef
+}
+
+.profile-img img
+{
+    height: 20%;
+}
+
+mark.name {
+
+}
+
+
